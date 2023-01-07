@@ -1,0 +1,26 @@
+/*********************************************TAG SELECTOR*********************************************************************/
+h1{
+    color:brown;
+    font-size: 200px;
+    }
+h1:hover{
+    color:lime;
+    background-color: orangered;
+}
+img:hover{
+    background-color: olive;
+
+}
+/*********************************************CLASS SELECTOR*******************************************************************/    
+ 
+.bacon{
+    background-color: goldenrod;
+}
+.apple{
+    background-color: greenyellow;
+}
+/********************************************ID SELECTOR***********************************************************************/
+/*#apple:hover{
+    color: lime;
+    background-color: orangered;
+}*/

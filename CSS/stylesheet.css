@@ -1,0 +1,27 @@
+body{
+    background-color:lavender;
+}
+hr{
+    
+    border-style: none;
+    border-top: dotted;
+    border-width :7px;
+    border-color:rgb(156, 148, 148);  
+    width: 10%;
+    
+}
+h1  {
+    color: #66BFBF;
+}
+h2  {
+    color: #66BFBF;
+}
+h3  {
+    color: #66BFBF;
+}
+h4  {
+    color: #66BFBF;
+}
+.heading:hover{
+    color: red;
+}
